@@ -9,7 +9,7 @@
 
 - 👨‍💻 un site incroyable [polosteor.tk](polosteor.tk)
 
-- 📫 Comment me joindre **polosteor@gmail.com @polosteor polosteor#9056**
+- 📫 Comment me joindre **polosteor@gmail.com @polosteor polosteor#9056*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
