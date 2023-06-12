@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/polosteor" target="blank"><img src="https://img.shields.io/twitter/follow/polosteor?logo=twitter&style=for-the-badge" alt="polosteor" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [un nouveau site polosteor-test.tk](https://polosteor-test.tk/)
+- 🔭 Je travaille actuellement sur rice OS basé le co-noyau Cpcdos OSx 
 
 - 🌱 Je suis en train d'apprendre **html css blueprint c++**
 
-- 👨‍💻 un site incroyable [polosteor.tk](polosteor.tk)
+- 👨‍💻 un site incroyable [polosteor.com](polosteor.com)
 
 - 📫 Comment me joindre @polosteor polosteor#9056
 
