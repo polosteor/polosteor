@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/polosteor" target="blank"><img src="https://img.shields.io/twitter/follow/polosteor?logo=twitter&style=for-the-badge" alt="polosteor" /></a> </p>
 
-- 🔭 Je travaille actuellement sur rice OS basé le co-noyau Cpcdos OSx 
+- 🔭 I'm currently working on rice OS based on the Cpcdos OSx kernel. 
 
-- 🌱 Je suis en train d'apprendre **html css blueprint c++**
+- 🌱 I'm learning **html css blueprint c++**.
 
-- 👨‍💻 un site incroyable [polosteor.com](polosteor.com)
+- 👨‍💻 An incredible Website [polosteor.com](polosteor.com)
 
-- 📫 Comment me joindre @polosteor polosteor#9056
+- 📫 How to contact me contact@polosteor.com or polosteor#9056
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
