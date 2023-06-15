@@ -1,5 +1,5 @@
 <h1 align="center">hello 👋 je suis polosteor</h1>
-<h3 align="center">débutant dans le front end et passionné pas les jv</h3>
+<h3 align="center">beginner in front end. passionate about tech</h3>
 
 <p align="left"> <a href="https://twitter.com/polosteor" target="blank"><img src="https://img.shields.io/twitter/follow/polosteor?logo=twitter&style=for-the-badge" alt="polosteor" /></a> </p>
 
