@@ -9,7 +9,7 @@
 
 - 👨‍💻 An incredible Website [polosteor.com](polosteor.com)
 
-- 📫 How to contact me contact@polosteor.com or polosteor#9056
+- 📫 How to contact me contact@polosteor.com or polosteor#9056.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
