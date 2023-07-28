@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on rice OS based on the Cpcdos OSx kernel. 
 
-- 🌱 I'm learning **html css blueprint c++**.
+- 🌱 I'm learning **html css blueprint c++**
 
 - 👨‍💻 An incredible Website [polosteor.com](polosteor.com)
 
