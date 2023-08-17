@@ -9,7 +9,7 @@
 
 - 👨‍💻 An incredible Website [polosteor.com](polosteor.com)
 
-- 📫 How to contact me contact@polosteor.com or polosteor#9056.
+- 📫 How to contact me contact@polosteor.com or polosteor#9056
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=polosteor&" alt="polosteor" /></p>
