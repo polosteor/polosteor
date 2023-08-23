@@ -7,7 +7,7 @@
 
 - 🌱 I'm learning **html css blueprint c++**
 
-- 👨‍💻 An incredible Website [polosteor.com](polosteor.com
+- 👨‍💻 An incredible Website [polosteor.com](polosteor.com)
 
 - 📫 How to contact me contact@polosteor.com or polosteor#9056
 
