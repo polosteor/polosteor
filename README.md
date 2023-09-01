@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/polosteor" target="blank"><img src="https://img.shields.io/twitter/follow/polosteor?logo=twitter&style=for-the-badge" alt="polosteor" /></a> </p>
 
-- 🔭 I'm currently working on rice OS based on the Cpcdos OSx kernel.
+- 🔭 I'm currently working on rice OS based on the Cpcdos OSx kernel
 
 - 🌱 I'm learning **html css blueprint c++**
 
